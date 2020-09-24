@@ -76,6 +76,7 @@ aside .photo-container .photo img {
 aside .message {
     margin-left: 25px;
     margin-right: 25px;
+    width: 230px;
 }
 
 aside .message>.name {
@@ -191,7 +192,7 @@ main .skill .skill-list li .iconfont {
 }
 
 main .skill .detail li {
-    width: 400px;
+    width: 100%;
     min-height: 115px;
     float: left;
     /*display: inline-block;*/
